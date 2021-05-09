@@ -20,7 +20,7 @@ vim 特点：
 
 ### 2.1 vim 模式
 
-![vim模式](../vim-manual/resources/images/vi的三种模式.png)
+![vim模式](resources/images/vi的三种模式.png)
 
 vim 分为三种模式：一般模式、编辑模式及命令模式。
 
